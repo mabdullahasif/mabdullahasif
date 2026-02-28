@@ -43,7 +43,7 @@ You can view my portfolio here:  **https://abdullahasif.net/**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++">
 
   <!-- Fritzing does NOT exist in Devicon, use official logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Fritzing_logo_%28new%29.png" width="50" height="50" alt="Fritzing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Fritzing_logo_%28new%29.png" width="70" height="50" alt="Fritzing">
 
 </div>
 
