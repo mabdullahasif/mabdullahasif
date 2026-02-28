@@ -38,6 +38,13 @@ You can view my portfolio here:  **https://abdullahasif.net/**
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS">
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++">
+
+  <!-- Fritzing does NOT exist in Devicon, use official logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Fritzing_icon.svg" width="50" height="50" alt="Fritzing">
+
 </div>
 
 
