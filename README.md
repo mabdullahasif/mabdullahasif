@@ -10,39 +10,23 @@ You can view my portfolio here:  **https://abdullahasif.net/**
 ---
 ### 🧰ToolBox
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;" id="stk92f">
+<div style="display:flex; flex-direction:row; gap:10px; align-items:center; overflow-x:auto;" id="stk92f">
 
   <img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="Laravel">
-
   <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50" alt="PHP">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" alt="Arduino">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++">
-
-  <!-- Fritzing does NOT exist in Devicon, use official logo -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Fritzing_logo_%28new%29.png" width="95" height="80" alt="Fritzing">
 
 </div>
